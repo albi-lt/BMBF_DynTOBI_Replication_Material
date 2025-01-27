@@ -1,4 +1,4 @@
-# BMBF_DynTOBI_Replication_Material
+# BMBF funded project (IFI114): DynTOBI Replication Material
 
 This repository compiles all relevant materials necessary to comprehend the results presented in the following papers:
 
