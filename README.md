@@ -7,6 +7,6 @@ technology-related news articles, Journal of Open Innovation: Technology, Market
 Complexity, Volume 11, Issue 1, 2025, 100475.  
 [Link to Paper](https://www.sciencedirect.com/science/article/pii/S2199853125000101)
 
-[Graphic](other/project_pipeline.png)
+![Graphic](other/project_pipeline.png)
 
 
